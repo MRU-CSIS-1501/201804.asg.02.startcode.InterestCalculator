@@ -1,0 +1,15 @@
+acctHolder, acctNumber, startBalance, acctType, expectedOutput
+
+"Arnold", "12345", "2501.36", "s","Account Holder:     Arnold
+Account Number:     12345
+Starting Balance:   2,501.36
+Account Type:       Savings
+Interest Earned:    31.27"
+
+"uMidA","xc-gic-1001",2000,"Gic","Account Holder:     uMidA
+Account Number:     xc-gic-1001
+Starting Balance:   2,000.00
+Account Type:       GIC
+Interest Earned:    17.00"
+
+"Rufus", "121-1111", .01, "x", "Unable to continue"
